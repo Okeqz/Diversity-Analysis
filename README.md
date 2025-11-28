@@ -17,13 +17,11 @@ To assess workforce diversity and career progression, the following KPIs were an
 ✅ **Turnover Rate** – Employee departures segmented by gender.  
 ✅ **Hiring Trends** – Percentage of men vs. women in new hires.  
 ✅ **Promotion Rates** – Gender distribution in career advancements.  
-✅ **Nationality Breakdown** – Workforce diversity across different nationalities.  
 
 ### **Visualizations in Power BI**  
 📊 **Bar Charts & Slicers** – Workforce distribution by **gender, age group, and department**.  
 📈 **Column Graphs** – **Turnover and retention** trends by job level.  
 📊 **Performance & Promotion Analytics** – Gender representation in career growth.  
-🌍 **Diversity Heatmaps** – Nationality breakdown across the workforce.  
 
 ## **Why This Matters**  
 Understanding workforce diversity through **data visualization** empowers HR teams to:  
