@@ -29,3 +29,6 @@ Understanding workforce diversity through **data visualization** empowers HR tea
 - Make informed **hiring and retention** decisions.  
 - Drive **inclusive workplace policies** backed by data.  
 
+## Example Dashboard
+![Sample Dashboard](https://github.com/user-attachments/assets/b1a84f2e-3aa2-461d-b467-07d9c910af6f)
+
