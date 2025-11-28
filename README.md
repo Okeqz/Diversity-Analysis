@@ -30,5 +30,5 @@ Understanding workforce diversity through **data visualization** empowers HR tea
 - Drive **inclusive workplace policies** backed by data.  
 
 ## Example Dashboard
-![Sample Dashboard](https://github.com/user-attachments/assets/b1a84f2e-3aa2-461d-b467-07d9c910af6f)
+![Sample Dashboard](https://github.com/user-attachments/assets/0ec02160-cc6c-47e2-b6d1-9d37c4612a12)
 
