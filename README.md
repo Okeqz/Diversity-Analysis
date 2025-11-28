@@ -1,7 +1,7 @@
 # **Workforce Diversity Analysis with Power BI**  
 
 ## **Overview**  
-Workplace diversity is a critical factor in organizational success, yet many companies struggle to achieve meaningful representation—especially at leadership levels. This project leverages **Power BI** to analyze workforce demographics, identify diversity trends, and provide data-driven insights to support inclusion efforts.  
+Workplace diversity is a critical factor in organizational success, yet many companies struggle to achieve meaningful representation, especially at leadership levels. This project leverages **Power BI** to analyze workforce demographics, identify diversity trends, and provide data-driven insights to support inclusion efforts.  
 
 ## **Project Objective**  
 Companies worldwide, emphasize the importance of diversity and inclusion. However, translating these goals into measurable outcomes can be challenging. This project aims to:  
